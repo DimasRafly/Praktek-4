@@ -1,0 +1,40 @@
+/*.box{
+    width: 450px;
+    height: 601px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+    }
+    #logo{
+    	float: left;
+    	color: white;
+    	padding: 14px 6px;
+    }
+    ul{
+    	position: fixed;
+    	top: 0;
+    	width: 100%;
+    	font-size: 30px;
+    	list-style-type: none;
+    	height: 70px;
+    	margin: 0;
+    	padding: 0;
+    	background-color: #333;
+    }
+    li{
+    	float: right;
+    }
+    li a{
+    	display: block;
+    	color: white;
+    	text-align: center;
+    	padding: 14px 6px;
+    	text-decoration: none;
+    }
+    li a:hover{
+    	background-color: #111;
+    	height: 100px;
+    }*/
